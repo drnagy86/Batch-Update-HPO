@@ -41,6 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FakeHPODDataAccessor.cs" />
+    <Compile Include="HPODDataAccessor.cs" />
+    <Compile Include="IHPODataAccessor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
